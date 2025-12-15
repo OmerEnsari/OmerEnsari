@@ -51,10 +51,7 @@
 <p>
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=OmerEnsari&show_icons=true&theme=dark&locale=en" alt="OmerEnsari" />
 </p>
-<br><br><br><br><br><br><br><br><br><br>
-<p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=OmerEnsari&theme=dark" alt="OmerEnsari" />
-</p>
+
 <br><br><br><br><br><br><br><br><br><br>
 
 <hr>
