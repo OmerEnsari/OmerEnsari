@@ -2,7 +2,7 @@
 <h3 align="center">Student & Software Developer</h3>
 
 <p align="left">
-  🌱 <strong>Hakkımda (TR):</strong> Şu an Mehmet Akif Ersoy Üniversitesi Bilişim Sistemleri ve Teknolojileri 4. Sınıf Öğrencisiyim. C# , HTML ve .NET teknolojileri ile projeler geliştiriyorum.
+  🌱 <strong>Hakkımda (TR):</strong> Şu an Mehmet Akif Ersoy Üniversitesi Bilişim Sistemleri ve Teknolojileri 4. Sınıf Öğrencisiyim. C# , PHP ve .NET teknolojileri ile projeler geliştiriyorum.
 </p>
 
 <p align="left">
